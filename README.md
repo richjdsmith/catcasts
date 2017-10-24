@@ -1,5 +1,7 @@
 # Catcasts
 
+A project built following a tutorial by [@thebrianemory](https://github.com/thebrianemory) found on [Medium](https://medium.brianemory.com/elixir-phoenix-creating-an-app-with-tests-updated-for-phoenix-1-3-3cc8b5cf3601)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
