@@ -43,7 +43,8 @@ defmodule Catcasts.Mixfile do
       {:cowboy, "~> 1.0"},
       # Customs beyond this point
       {:ueberauth, "~> 0.4"},
-      {:ueberauth_google, "~> 0.5"}
+      {:ueberauth_google, "~> 0.5"},
+      {:ex_machina, "~> 2.0", only: :test}
     ]
   end
 
